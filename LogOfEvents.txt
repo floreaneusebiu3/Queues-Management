@@ -1,0 +1,2013 @@
+BIG QUEUE: Client{3 1 1}Client{8 1 3}Client{1 2 2}Client{4 2 3}Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{1 2 2}Client{4 2 3}Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: Client{2 1 2}Client{4 1 3}Client{5 1 2}Client{8 1 2}Client{9 1 1}Client{6 2 2}Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}
+BIG QUEUE: Client{6 2 2}Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}
+BIG QUEUE: Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}
+BIG QUEUE: Client{10 4 3}
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE:
+
+BIG QUEUE: Client{4 1 1}Client{6 1 2}Client{7 1 2}Client{9 1 3}Client{1 2 1}Client{2 2 1}Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}
+BIG QUEUE: Client{1 2 1}Client{2 2 1}Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}
+BIG QUEUE: Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}
+BIG QUEUE: Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: 
+BIG QUEUE: Client{5 1 1}Client{6 1 1}Client{10 1 1}Client{1 2 2}Client{2 2 2}Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+BIG QUEUE: Client{1 2 2}Client{2 2 2}Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}
+queue 1:(5,1,1)    
+queue 2:(6,1,1)    
+queue 3:(10,1,1)    
+BIG QUEUE: Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}
+queue 1:(1,2,2)    
+queue 2:(2,2,2)    
+queue 3:__empty__
+BIG QUEUE: Client{3 4 2}Client{4 4 3}
+queue 1:(1,2,1)    (8,3,3)    
+queue 2:(2,2,1)    (9,3,2)    
+queue 3:(7,3,2)    
+BIG QUEUE: 
+queue 1:(8,3,3)    
+queue 2:(9,3,2)    (4,4,3)    
+queue 3:(7,3,1)    (3,4,2)    
+BIG QUEUE: 
+queue 1:(8,3,2)    
+queue 2:(9,3,1)    (4,4,3)    
+queue 3:(3,4,2)    
+BIG QUEUE: 
+queue 1:(8,3,1)    
+queue 2:(4,4,3)    
+queue 3:(3,4,1)    
+BIG QUEUE: 
+queue 1:__empty__
+queue 2:(4,4,2)    
+queue 3:__empty__
+BIG QUEUE: 
+queue 1:__empty__
+queue 2:(4,4,1)    
+queue 3:__empty__
+BIG QUEUE: 
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+time: 0BIG QUEUE: 
+Client{1 1 1}Client{2 1 1}Client{6 1 1}Client{7 1 3}Client{9 1 1}Client{10 1 1}Client{3 2 1}Client{4 2 1}Client{5 2 2}Client{8 4 2}
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+time: 1BIG QUEUE: 
+Client{3 2 1}Client{4 2 1}Client{5 2 2}Client{8 4 2}
+queue 1:(1,1,1)    (7,1,3)    
+queue 2:(2,1,1)    (9,1,1)    
+queue 3:(6,1,1)    (10,1,1)    
+time: 2BIG QUEUE: 
+Client{8 4 2}
+queue 1:(7,1,3)    
+queue 2:(9,1,1)    (3,2,1)    (5,2,2)    
+queue 3:(10,1,1)    (4,2,1)    
+time: 3BIG QUEUE: 
+Client{8 4 2}
+queue 1:(7,1,2)    
+queue 2:(3,2,1)    (5,2,2)    
+queue 3:(4,2,1)    
+time: 4BIG QUEUE: 
+
+queue 1:(7,1,1)    
+queue 2:(5,2,2)    
+queue 3:(8,4,2)    
+time: 5BIG QUEUE: 
+
+queue 1:__empty__
+queue 2:(5,2,1)    
+queue 3:(8,4,1)    
+time: 6BIG QUEUE: 
+
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+time: 0
+BIG QUEUE: 
+(1,1,1)(2,1,1)(7,1,3)(9,1,2)(3,2,3)(8,2,1)(10,3,3)(4,4,2)(5,4,2)(6,4,1)
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+time: 1
+BIG QUEUE: 
+(3,2,3)(8,2,1)(10,3,3)(4,4,2)(5,4,2)(6,4,1)
+queue 1:(1,1,1)    (9,1,2)    
+queue 2:(2,1,1)    
+queue 3:(7,1,3)    
+time: 2
+BIG QUEUE: 
+(10,3,3)(4,4,2)(5,4,2)(6,4,1)
+queue 1:(9,1,2)    (8,2,1)    
+queue 2:(3,2,3)    
+queue 3:(7,1,2)    
+time: 3
+BIG QUEUE: 
+(4,4,2)(5,4,2)(6,4,1)
+queue 1:(9,1,1)    (8,2,1)    
+queue 2:(3,2,2)    
+queue 3:(7,1,1)    (10,3,3)    
+time: 4
+BIG QUEUE: 
+
+queue 1:(8,2,1)    (4,4,2)    (6,4,1)    
+queue 2:(3,2,1)    (5,4,2)    
+queue 3:(10,3,3)    
+time: 5
+BIG QUEUE: 
+
+queue 1:(4,4,2)    (6,4,1)    
+queue 2:(5,4,2)    
+queue 3:(10,3,2)    
+time: 6
+BIG QUEUE: 
+
+queue 1:(4,4,1)    (6,4,1)    
+queue 2:(5,4,1)    
+queue 3:(10,3,1)    
+time: 7
+BIG QUEUE: 
+
+queue 1:(6,4,1)    
+queue 2:__empty__
+queue 3:__empty__
+time: 8
+BIG QUEUE: 
+
+queue 1:__empty__
+queue 2:__empty__
+queue 3:__empty__
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:0.9
+Average Service Time:1.9time: 0
+BIG QUEUE: (1,1,1)(4,1,1)(5,1,1)(10,2,1)(6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)
+queue 1:__empty__
+
+time: 1
+BIG QUEUE: (10,2,1)(6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)
+queue 1:(1,1,1)    (4,1,1)    (5,1,1)    
+
+time: 2
+BIG QUEUE: (6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)
+queue 1:(4,1,1)    (5,1,1)    (10,2,1)    
+
+time: 3
+BIG QUEUE: (2,4,1)(3,4,1)(8,4,1)
+queue 1:(5,1,1)    (10,2,1)    (6,3,1)    (7,3,1)    (9,3,1)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(10,2,1)    (6,3,1)    (7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(6,3,1)    (7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    
+
+time: 8
+BIG QUEUE: 
+queue 1:(2,4,1)    (3,4,1)    (8,4,1)    
+
+time: 9
+BIG QUEUE: 
+queue 1:(3,4,1)    (8,4,1)    
+
+time: 10
+BIG QUEUE: 
+queue 1:(8,4,1)    
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:2.9
+Average Service Time:1.0time: 0
+BIG QUEUE: (2,1,3)(4,1,2)(8,1,1)(9,1,1)(10,1,1)(1,2,3)(3,2,2)(6,2,2)(7,2,2)(5,4,1)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (1,2,3)(3,2,2)(6,2,2)(7,2,2)(5,4,1)
+queue 1:(2,1,3)    
+
+queue 2:(4,1,2)    (10,1,1)    
+
+queue 3:(8,1,1)    (9,1,1)    
+
+time: 2
+BIG QUEUE: (5,4,1)
+queue 1:(2,1,2)    (3,2,2)    (7,2,2)    
+
+queue 2:(4,1,1)    (10,1,1)    (6,2,2)    
+
+queue 3:(9,1,1)    (1,2,3)    
+
+time: 3
+BIG QUEUE: (5,4,1)
+queue 1:(2,1,1)    (3,2,2)    (7,2,2)    
+
+queue 2:(10,1,1)    (6,2,2)    
+
+queue 3:(1,2,3)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(3,2,2)    (7,2,2)    
+
+queue 2:(6,2,2)    (5,4,1)    
+
+queue 3:(1,2,2)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(3,2,1)    (7,2,2)    
+
+queue 2:(6,2,1)    (5,4,1)    
+
+queue 3:(1,2,1)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(7,2,2)    
+
+queue 2:(5,4,1)    
+
+queue 3:__empty__
+
+time: 7
+BIG QUEUE: 
+queue 1:(7,2,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 8
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 2
+Average Waiting Time:1.4
+Average Service Time:1.8time: 0
+BIG QUEUE: (5,1,1)(2,2,2)(6,2,3)(9,2,3)(10,2,1)(1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (2,2,2)(6,2,3)(9,2,3)(10,2,1)(1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)
+queue 1:(5,1,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 2
+BIG QUEUE: (1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)
+queue 1:(2,2,2)    (10,2,1)    
+
+queue 2:(6,2,3)    
+
+queue 3:(9,2,3)    
+
+time: 3
+BIG QUEUE: (4,4,1)(7,4,2)
+queue 1:(2,2,1)    (10,2,1)    (1,3,3)    
+
+queue 2:(6,2,2)    (3,3,1)    
+
+queue 3:(9,2,2)    (8,3,1)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(10,2,1)    (1,3,3)    
+
+queue 2:(6,2,1)    (3,3,1)    (4,4,1)    
+
+queue 3:(9,2,1)    (8,3,1)    (7,4,2)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(1,3,3)    
+
+queue 2:(3,3,1)    (4,4,1)    
+
+queue 3:(8,3,1)    (7,4,2)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(1,3,2)    
+
+queue 2:(4,4,1)    
+
+queue 3:(7,4,2)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(1,3,1)    
+
+queue 2:__empty__
+
+queue 3:(7,4,1)    
+
+time: 8
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:1.2
+Average Service Time:1.8time: 0
+BIG QUEUE: (3,1,3)(5,1,2)(6,1,3)(8,1,1)(2,2,2)(10,2,2)(4,3,1)(9,3,2)(1,4,3)(7,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (2,2,2)(10,2,2)(4,3,1)(9,3,2)(1,4,3)(7,4,2)
+queue 1:(3,1,3)    
+
+queue 2:(5,1,2)    (8,1,1)    
+
+queue 3:(6,1,3)    
+
+time: 2
+BIG QUEUE: (4,3,1)(9,3,2)(1,4,3)(7,4,2)
+queue 1:(3,1,2)    (2,2,2)    
+
+queue 2:(5,1,1)    (8,1,1)    (10,2,2)    
+
+queue 3:(6,1,2)    
+
+time: 3
+BIG QUEUE: (1,4,3)(7,4,2)
+queue 1:(3,1,1)    (2,2,2)    
+
+queue 2:(8,1,1)    (10,2,2)    
+
+queue 3:(6,1,1)    (4,3,1)    (9,3,2)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(2,2,2)    (1,4,3)    
+
+queue 2:(10,2,2)    (7,4,2)    
+
+queue 3:(4,3,1)    (9,3,2)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(2,2,1)    (1,4,3)    
+
+queue 2:(10,2,1)    (7,4,2)    
+
+queue 3:(9,3,2)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(1,4,3)    
+
+queue 2:(7,4,2)    
+
+queue 3:(9,3,1)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(1,4,2)    
+
+queue 2:(7,4,1)    
+
+queue 3:__empty__
+
+time: 8
+BIG QUEUE: 
+queue 1:(1,4,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 9
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 3
+Average Waiting Time:1.3
+Average Service Time:2.1time: 0
+BIG QUEUE: (4,1,1)(9,1,3)(1,2,3)(3,2,1)(7,2,3)(10,2,1)(5,3,3)(6,3,3)(2,4,3)(8,4,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (1,2,3)(3,2,1)(7,2,3)(10,2,1)(5,3,3)(6,3,3)(2,4,3)(8,4,3)
+queue 1:(4,1,1)    
+
+queue 2:(9,1,3)    
+
+queue 3:__empty__
+
+time: 2
+BIG QUEUE: (5,3,3)(6,3,3)(2,4,3)(8,4,3)
+queue 1:(1,2,3)    
+
+queue 2:(9,1,2)    (10,2,1)    
+
+queue 3:(3,2,1)    (7,2,3)    
+
+time: 3
+BIG QUEUE: (2,4,3)(8,4,3)
+queue 1:(1,2,2)    (5,3,3)    
+
+queue 2:(9,1,1)    (10,2,1)    (6,3,3)    
+
+queue 3:(7,2,3)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(1,2,1)    (5,3,3)    (8,4,3)    
+
+queue 2:(10,2,1)    (6,3,3)    
+
+queue 3:(7,2,2)    (2,4,3)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(5,3,3)    (8,4,3)    
+
+queue 2:(6,3,3)    
+
+queue 3:(7,2,1)    (2,4,3)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(5,3,2)    (8,4,3)    
+
+queue 2:(6,3,2)    
+
+queue 3:(2,4,3)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(5,3,1)    (8,4,3)    
+
+queue 2:(6,3,1)    
+
+queue 3:(2,4,2)    
+
+time: 8
+BIG QUEUE: 
+queue 1:(8,4,3)    
+
+queue 2:__empty__
+
+queue 3:(2,4,1)    
+
+time: 9
+BIG QUEUE: 
+queue 1:(8,4,2)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 10
+BIG QUEUE: 
+queue 1:(8,4,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:1.3
+Average Service Time:2.4time: 0
+BIG QUEUE: (4,1,1)(3,2,1)(6,2,1)(8,2,1)(9,2,1)(10,2,1)(2,3,3)(5,3,3)(7,3,3)(1,4,1)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (3,2,1)(6,2,1)(8,2,1)(9,2,1)(10,2,1)(2,3,3)(5,3,3)(7,3,3)(1,4,1)
+queue 1:(4,1,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 2
+BIG QUEUE: (2,3,3)(5,3,3)(7,3,3)(1,4,1)
+queue 1:(3,2,1)    (9,2,1)    
+
+queue 2:(6,2,1)    (10,2,1)    
+
+queue 3:(8,2,1)    
+
+time: 3
+BIG QUEUE: (1,4,1)
+queue 1:(9,2,1)    (5,3,3)    
+
+queue 2:(10,2,1)    (7,3,3)    
+
+queue 3:(2,3,3)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(5,3,3)    
+
+queue 2:(7,3,3)    
+
+queue 3:(2,3,2)    (1,4,1)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(5,3,2)    
+
+queue 2:(7,3,2)    
+
+queue 3:(2,3,1)    (1,4,1)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(5,3,1)    
+
+queue 2:(7,3,1)    
+
+queue 3:(1,4,1)    
+
+time: 7
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 2
+Average Waiting Time:0.6
+Average Service Time:1.6time: 0
+BIG QUEUE: (6,1,2)(7,1,1)(10,1,2)(1,2,2)(2,2,1)(3,4,2)(4,4,3)(5,4,3)(8,4,1)(9,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (1,2,2)(2,2,1)(3,4,2)(4,4,3)(5,4,3)(8,4,1)(9,4,2)
+queue 1:(6,1,2)    
+
+queue 2:(7,1,1)    
+
+queue 3:(10,1,2)    
+
+time: 2
+BIG QUEUE: (3,4,2)(4,4,3)(5,4,3)(8,4,1)(9,4,2)
+queue 1:(6,1,1)    (2,2,1)    
+
+queue 2:(1,2,2)    
+
+queue 3:(10,1,1)    
+
+time: 3
+BIG QUEUE: (3,4,2)(4,4,3)(5,4,3)(8,4,1)(9,4,2)
+queue 1:(2,2,1)    
+
+queue 2:(1,2,1)    
+
+queue 3:__empty__
+
+time: 4
+BIG QUEUE: 
+queue 1:(3,4,2)    (8,4,1)    (9,4,2)    
+
+queue 2:(4,4,3)    
+
+queue 3:(5,4,3)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(3,4,1)    (8,4,1)    (9,4,2)    
+
+queue 2:(4,4,2)    
+
+queue 3:(5,4,2)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(8,4,1)    (9,4,2)    
+
+queue 2:(4,4,1)    
+
+queue 3:(5,4,1)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(9,4,2)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 8
+BIG QUEUE: 
+queue 1:(9,4,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 9
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:0.6
+Average Service Time:1.9time: 0
+BIG QUEUE: (4,1,3)(6,1,2)(8,1,2)(2,2,2)(9,2,1)(1,3,3)(5,3,1)(7,3,3)(3,4,3)(10,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (2,2,2)(9,2,1)(1,3,3)(5,3,1)(7,3,3)(3,4,3)(10,4,2)
+queue 1:(4,1,3)    
+
+queue 2:(6,1,2)    
+
+queue 3:(8,1,2)    
+
+time: 2
+BIG QUEUE: (1,3,3)(5,3,1)(7,3,3)(3,4,3)(10,4,2)
+queue 1:(4,1,2)    
+
+queue 2:(6,1,1)    (2,2,2)    
+
+queue 3:(8,1,1)    (9,2,1)    
+
+time: 3
+BIG QUEUE: (3,4,3)(10,4,2)
+queue 1:(4,1,1)    (1,3,3)    
+
+queue 2:(2,2,2)    (7,3,3)    
+
+queue 3:(9,2,1)    (5,3,1)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(1,3,3)    (10,4,2)    
+
+queue 2:(2,2,1)    (7,3,3)    
+
+queue 3:(5,3,1)    (3,4,3)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(1,3,2)    (10,4,2)    
+
+queue 2:(7,3,3)    
+
+queue 3:(3,4,3)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(1,3,1)    (10,4,2)    
+
+queue 2:(7,3,2)    
+
+queue 3:(3,4,2)    
+
+time: 7
+BIG QUEUE: 
+queue 1:(10,4,2)    
+
+queue 2:(7,3,1)    
+
+queue 3:(3,4,1)    
+
+time: 8
+BIG QUEUE: 
+queue 1:(10,4,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 9
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 3
+Average Waiting Time:1.0
+Average Service Time:2.2time: 0
+BIG QUEUE: (3,1,1)(4,1,1)(5,1,2)(7,1,3)(9,1,1)(1,2,2)(8,2,3)(2,3,1)(10,3,2)(6,4,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 1
+BIG QUEUE: (1,2,2)(8,2,3)(2,3,1)(10,3,2)(6,4,3)
+queue 1:(3,1,1)    (7,1,3)    
+
+queue 2:(4,1,1)    (9,1,1)    
+
+queue 3:(5,1,2)    
+
+time: 2
+BIG QUEUE: (2,3,1)(10,3,2)(6,4,3)
+queue 1:(7,1,3)    
+
+queue 2:(9,1,1)    (1,2,2)    
+
+queue 3:(5,1,1)    (8,2,3)    
+
+time: 3
+BIG QUEUE: (6,4,3)
+queue 1:(7,1,2)    (2,3,1)    
+
+queue 2:(1,2,2)    (10,3,2)    
+
+queue 3:(8,2,3)    
+
+time: 4
+BIG QUEUE: 
+queue 1:(7,1,1)    (2,3,1)    (6,4,3)    
+
+queue 2:(1,2,1)    (10,3,2)    
+
+queue 3:(8,2,2)    
+
+time: 5
+BIG QUEUE: 
+queue 1:(2,3,1)    (6,4,3)    
+
+queue 2:(10,3,2)    
+
+queue 3:(8,2,1)    
+
+time: 6
+BIG QUEUE: 
+queue 1:(6,4,3)    
+
+queue 2:(10,3,1)    
+
+queue 3:__empty__
+
+time: 7
+BIG QUEUE: 
+queue 1:(6,4,2)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 8
+BIG QUEUE: 
+queue 1:(6,4,1)    
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+time: 9
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:1.0
+Average Service Time:1.9
+FINAL RESULTS:
+Peak Hour: 5
+Average Waiting Time:0.0
+Average Service Time:3.25
+time: 0
+BIG QUEUE: (5,1,1)(9,1,3)(13,1,2)(18,1,1)(21,1,3)(22,1,1)(25,1,1)(28,1,3)(32,1,3)(35,1,3)(36,1,3)(44,1,2)(1,2,2)(4,2,3)(10,2,2)(12,2,2)(15,2,1)(17,2,2)(20,2,3)(23,2,1)(27,2,1)(30,2,2)(31,2,3)(37,2,2)(40,2,1)(43,2,1)(46,2,1)(2,3,2)(3,3,1)(7,3,1)(8,3,1)(14,3,3)(16,3,3)(24,3,3)(29,3,2)(45,3,3)(48,3,3)(50,3,1)(6,4,1)(11,4,3)(19,4,3)(26,4,2)(33,4,1)(34,4,3)(38,4,2)(39,4,3)(41,4,1)(42,4,2)(47,4,1)(49,4,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+
+time: 1
+BIG QUEUE: (1,2,2)(4,2,3)(10,2,2)(12,2,2)(15,2,1)(17,2,2)(20,2,3)(23,2,1)(27,2,1)(30,2,2)(31,2,3)(37,2,2)(40,2,1)(43,2,1)(46,2,1)(2,3,2)(3,3,1)(7,3,1)(8,3,1)(14,3,3)(16,3,3)(24,3,3)(29,3,2)(45,3,3)(48,3,3)(50,3,1)(6,4,1)(11,4,3)(19,4,3)(26,4,2)(33,4,1)(34,4,3)(38,4,2)(39,4,3)(41,4,1)(42,4,2)(47,4,1)(49,4,3)
+queue 1:(5,1,1)    (22,1,1)    (28,1,3)    
+
+queue 2:(9,1,3)    (36,1,3)    
+
+queue 3:(13,1,2)    (32,1,3)    
+
+queue 4:(18,1,1)    (25,1,1)    (35,1,3)    
+
+queue 5:(21,1,3)    (44,1,2)    
+
+
+time: 2
+BIG QUEUE: (2,3,2)(3,3,1)(7,3,1)(8,3,1)(14,3,3)(16,3,3)(24,3,3)(29,3,2)(45,3,3)(48,3,3)(50,3,1)(6,4,1)(11,4,3)(19,4,3)(26,4,2)(33,4,1)(34,4,3)(38,4,2)(39,4,3)(41,4,1)(42,4,2)(47,4,1)(49,4,3)
+queue 1:(22,1,1)    (28,1,3)    (1,2,2)    (17,2,2)    (40,2,1)    (43,2,1)    
+
+queue 2:(9,1,2)    (36,1,3)    (15,2,1)    (20,2,3)    (46,2,1)    
+
+queue 3:(13,1,1)    (32,1,3)    (4,2,3)    (30,2,2)    
+
+queue 4:(25,1,1)    (35,1,3)    (10,2,2)    (23,2,1)    (31,2,3)    
+
+queue 5:(21,1,2)    (44,1,2)    (12,2,2)    (27,2,1)    (37,2,2)    
+
+
+time: 3
+BIG QUEUE: (6,4,1)(11,4,3)(19,4,3)(26,4,2)(33,4,1)(34,4,3)(38,4,2)(39,4,3)(41,4,1)(42,4,2)(47,4,1)(49,4,3)
+queue 1:(28,1,3)    (1,2,2)    (17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    
+
+queue 2:(9,1,1)    (36,1,3)    (15,2,1)    (20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    
+
+queue 3:(32,1,3)    (4,2,3)    (30,2,2)    (2,3,2)    (45,3,3)    
+
+queue 4:(35,1,3)    (10,2,2)    (23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    
+
+queue 5:(21,1,1)    (44,1,2)    (12,2,2)    (27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(28,1,2)    (1,2,2)    (17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(36,1,3)    (15,2,1)    (20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(32,1,2)    (4,2,3)    (30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(35,1,2)    (10,2,2)    (23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(44,1,2)    (12,2,2)    (27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 5
+BIG QUEUE: 
+queue 1:(28,1,1)    (1,2,2)    (17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(36,1,2)    (15,2,1)    (20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(32,1,1)    (4,2,3)    (30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(35,1,1)    (10,2,2)    (23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(44,1,1)    (12,2,2)    (27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 6
+BIG QUEUE: 
+queue 1:(1,2,2)    (17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(36,1,1)    (15,2,1)    (20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(4,2,3)    (30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(10,2,2)    (23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(12,2,2)    (27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 7
+BIG QUEUE: 
+queue 1:(1,2,1)    (17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(15,2,1)    (20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(4,2,2)    (30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(10,2,1)    (23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(12,2,1)    (27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 8
+BIG QUEUE: 
+queue 1:(17,2,2)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(20,2,3)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(4,2,1)    (30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(23,2,1)    (31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(27,2,1)    (37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 9
+BIG QUEUE: 
+queue 1:(17,2,1)    (40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(20,2,2)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(30,2,2)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(31,2,3)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(37,2,2)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 10
+BIG QUEUE: 
+queue 1:(40,2,1)    (43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(20,2,1)    (46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(30,2,1)    (2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(31,2,2)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(37,2,1)    (3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 11
+BIG QUEUE: 
+queue 1:(43,2,1)    (7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(46,2,1)    (8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(2,3,2)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(31,2,1)    (14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(3,3,1)    (16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 12
+BIG QUEUE: 
+queue 1:(7,3,1)    (24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(8,3,1)    (29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(2,3,1)    (45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(14,3,3)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(16,3,3)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 13
+BIG QUEUE: 
+queue 1:(24,3,3)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(29,3,2)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(45,3,3)    (19,4,3)    (42,4,2)    
+
+queue 4:(14,3,2)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(16,3,2)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 14
+BIG QUEUE: 
+queue 1:(24,3,2)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(29,3,1)    (48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(45,3,2)    (19,4,3)    (42,4,2)    
+
+queue 4:(14,3,1)    (50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(16,3,1)    (6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 15
+BIG QUEUE: 
+queue 1:(24,3,1)    (11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(48,3,3)    (38,4,2)    (49,4,3)    
+
+queue 3:(45,3,1)    (19,4,3)    (42,4,2)    
+
+queue 4:(50,3,1)    (26,4,2)    (39,4,3)    
+
+queue 5:(6,4,1)    (33,4,1)    (34,4,3)    
+
+
+time: 16
+BIG QUEUE: 
+queue 1:(11,4,3)    (41,4,1)    (47,4,1)    
+
+queue 2:(48,3,2)    (38,4,2)    (49,4,3)    
+
+queue 3:(19,4,3)    (42,4,2)    
+
+queue 4:(26,4,2)    (39,4,3)    
+
+queue 5:(33,4,1)    (34,4,3)    
+
+
+time: 17
+BIG QUEUE: 
+queue 1:(11,4,2)    (41,4,1)    (47,4,1)    
+
+queue 2:(48,3,1)    (38,4,2)    (49,4,3)    
+
+queue 3:(19,4,2)    (42,4,2)    
+
+queue 4:(26,4,1)    (39,4,3)    
+
+queue 5:(34,4,3)    
+
+
+time: 18
+BIG QUEUE: 
+queue 1:(11,4,1)    (41,4,1)    (47,4,1)    
+
+queue 2:(38,4,2)    (49,4,3)    
+
+queue 3:(19,4,1)    (42,4,2)    
+
+queue 4:(39,4,3)    
+
+queue 5:(34,4,2)    
+
+
+time: 19
+BIG QUEUE: 
+queue 1:(41,4,1)    (47,4,1)    
+
+queue 2:(38,4,1)    (49,4,3)    
+
+queue 3:(42,4,2)    
+
+queue 4:(39,4,2)    
+
+queue 5:(34,4,1)    
+
+
+time: 20
+BIG QUEUE: 
+queue 1:(47,4,1)    
+
+queue 2:(49,4,3)    
+
+queue 3:(42,4,1)    
+
+queue 4:(39,4,1)    
+
+queue 5:__empty__
+
+
+time: 21
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:(49,4,2)    
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+
+time: 22
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:(49,4,1)    
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+
+time: 23
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:7.48
+Average Service Time:2.02
+time: 0
+BIG QUEUE: (3,1,5)(6,1,5)(7,1,2)(11,1,2)(8,2,3)(9,2,5)(20,2,4)(4,3,4)(5,3,2)(12,3,2)(13,3,3)(15,3,3)(17,3,5)(18,3,5)(19,3,5)(1,4,4)(2,4,5)(10,5,5)(14,5,3)(16,5,4)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 1
+BIG QUEUE: (8,2,3)(9,2,5)(20,2,4)(4,3,4)(5,3,2)(12,3,2)(13,3,3)(15,3,3)(17,3,5)(18,3,5)(19,3,5)(1,4,4)(2,4,5)(10,5,5)(14,5,3)(16,5,4)
+queue 1:(3,1,5)    
+
+queue 2:(6,1,5)    
+
+queue 3:(7,1,2)    (11,1,2)    
+
+
+time: 2
+BIG QUEUE: (4,3,4)(5,3,2)(12,3,2)(13,3,3)(15,3,3)(17,3,5)(18,3,5)(19,3,5)(1,4,4)(2,4,5)(10,5,5)(14,5,3)(16,5,4)
+queue 1:(3,1,4)    (9,2,5)    
+
+queue 2:(6,1,4)    (20,2,4)    
+
+queue 3:(7,1,1)    (11,1,2)    (8,2,3)    
+
+
+time: 3
+BIG QUEUE: (1,4,4)(2,4,5)(10,5,5)(14,5,3)(16,5,4)
+queue 1:(3,1,3)    (9,2,5)    (12,3,2)    (17,3,5)    
+
+queue 2:(6,1,3)    (20,2,4)    (5,3,2)    (13,3,3)    (18,3,5)    
+
+queue 3:(11,1,2)    (8,2,3)    (4,3,4)    (15,3,3)    (19,3,5)    
+
+
+time: 4
+BIG QUEUE: (10,5,5)(14,5,3)(16,5,4)
+queue 1:(3,1,2)    (9,2,5)    (12,3,2)    (17,3,5)    (1,4,4)    
+
+queue 2:(6,1,2)    (20,2,4)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(11,1,1)    (8,2,3)    (4,3,4)    (15,3,3)    (19,3,5)    
+
+
+time: 5
+BIG QUEUE: 
+queue 1:(3,1,1)    (9,2,5)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(6,1,1)    (20,2,4)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(8,2,3)    (4,3,4)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 6
+BIG QUEUE: 
+queue 1:(9,2,5)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(20,2,4)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(8,2,2)    (4,3,4)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 7
+BIG QUEUE: 
+queue 1:(9,2,4)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(20,2,3)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(8,2,1)    (4,3,4)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 8
+BIG QUEUE: 
+queue 1:(9,2,3)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(20,2,2)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(4,3,4)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 9
+BIG QUEUE: 
+queue 1:(9,2,2)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(20,2,1)    (5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(4,3,3)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 10
+BIG QUEUE: 
+queue 1:(9,2,1)    (12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(5,3,2)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(4,3,2)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 11
+BIG QUEUE: 
+queue 1:(12,3,2)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(5,3,1)    (13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(4,3,1)    (15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 12
+BIG QUEUE: 
+queue 1:(12,3,1)    (17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(13,3,3)    (18,3,5)    (2,4,5)    
+
+queue 3:(15,3,3)    (19,3,5)    (10,5,5)    
+
+
+time: 13
+BIG QUEUE: 
+queue 1:(17,3,5)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(13,3,2)    (18,3,5)    (2,4,5)    
+
+queue 3:(15,3,2)    (19,3,5)    (10,5,5)    
+
+
+time: 14
+BIG QUEUE: 
+queue 1:(17,3,4)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(13,3,1)    (18,3,5)    (2,4,5)    
+
+queue 3:(15,3,1)    (19,3,5)    (10,5,5)    
+
+
+time: 15
+BIG QUEUE: 
+queue 1:(17,3,3)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(18,3,5)    (2,4,5)    
+
+queue 3:(19,3,5)    (10,5,5)    
+
+
+time: 16
+BIG QUEUE: 
+queue 1:(17,3,2)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(18,3,4)    (2,4,5)    
+
+queue 3:(19,3,4)    (10,5,5)    
+
+
+time: 17
+BIG QUEUE: 
+queue 1:(17,3,1)    (1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(18,3,3)    (2,4,5)    
+
+queue 3:(19,3,3)    (10,5,5)    
+
+
+time: 18
+BIG QUEUE: 
+queue 1:(1,4,4)    (14,5,3)    (16,5,4)    
+
+queue 2:(18,3,2)    (2,4,5)    
+
+queue 3:(19,3,2)    (10,5,5)    
+
+
+time: 19
+BIG QUEUE: 
+queue 1:(1,4,3)    (14,5,3)    (16,5,4)    
+
+queue 2:(18,3,1)    (2,4,5)    
+
+queue 3:(19,3,1)    (10,5,5)    
+
+
+time: 20
+BIG QUEUE: 
+queue 1:(1,4,2)    (14,5,3)    (16,5,4)    
+
+queue 2:(2,4,5)    
+
+queue 3:(10,5,5)    
+
+
+FINAL RESULTS:
+Peak Hour: 5
+Average Waiting Time:8.35
+Average Service Time:3.8
+time: 0
+BIG QUEUE: (7,2,6)(1,3,7)(4,3,6)(3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 1
+BIG QUEUE: (7,2,6)(1,3,7)(4,3,6)(3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 2
+BIG QUEUE: (1,3,7)(4,3,6)(3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,6)    
+
+queue 2:__empty__
+
+
+time: 3
+BIG QUEUE: (3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,5)    (4,3,6)    
+
+queue 2:(1,3,7)    
+
+
+time: 4
+BIG QUEUE: (3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,4)    (4,3,6)    
+
+queue 2:(1,3,6)    
+
+
+time: 5
+BIG QUEUE: (3,6,6)(5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,3)    (4,3,6)    
+
+queue 2:(1,3,5)    
+
+
+time: 6
+BIG QUEUE: (5,7,6)(6,7,2)(8,7,4)(2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,2)    (4,3,6)    
+
+queue 2:(1,3,4)    (3,6,6)    
+
+
+time: 7
+BIG QUEUE: (2,10,4)(9,13,3)(10,15,3)
+queue 1:(7,2,1)    (4,3,6)    (5,7,6)    
+
+queue 2:(1,3,3)    (3,6,6)    (6,7,2)    (8,7,4)    
+
+
+time: 8
+BIG QUEUE: (2,10,4)(9,13,3)(10,15,3)
+queue 1:(4,3,6)    (5,7,6)    
+
+queue 2:(1,3,2)    (3,6,6)    (6,7,2)    (8,7,4)    
+
+
+time: 9
+BIG QUEUE: (2,10,4)(9,13,3)(10,15,3)
+queue 1:(4,3,5)    (5,7,6)    
+
+queue 2:(1,3,1)    (3,6,6)    (6,7,2)    (8,7,4)    
+
+
+time: 10
+BIG QUEUE: (9,13,3)(10,15,3)
+queue 1:(4,3,4)    (5,7,6)    (2,10,4)    
+
+queue 2:(3,6,6)    (6,7,2)    (8,7,4)    
+
+
+FINAL RESULTS:
+Peak Hour: 7
+Average Waiting Time:5.75
+Average Service Time:5.125
+time: 0
+BIG QUEUE: (7,1,1)(8,1,2)(9,1,3)(10,1,2)(19,1,2)(1,2,1)(4,2,1)(12,2,1)(2,3,1)(3,3,2)(5,3,1)(11,3,1)(13,3,1)(14,3,3)(16,3,1)(17,3,3)(6,4,1)(15,4,2)(18,4,3)(20,4,1)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+
+time: 1
+BIG QUEUE: (1,2,1)(4,2,1)(12,2,1)(2,3,1)(3,3,2)(5,3,1)(11,3,1)(13,3,1)(14,3,3)(16,3,1)(17,3,3)(6,4,1)(15,4,2)(18,4,3)(20,4,1)
+queue 1:(7,1,1)    (19,1,2)    
+
+queue 2:(8,1,2)    
+
+queue 3:(9,1,3)    
+
+queue 4:(10,1,2)    
+
+
+time: 2
+BIG QUEUE: (2,3,1)(3,3,2)(5,3,1)(11,3,1)(13,3,1)(14,3,3)(16,3,1)(17,3,3)(6,4,1)(15,4,2)(18,4,3)(20,4,1)
+queue 1:(19,1,2)    (12,2,1)    
+
+queue 2:(8,1,1)    (1,2,1)    
+
+queue 3:(9,1,2)    
+
+queue 4:(10,1,1)    (4,2,1)    
+
+
+time: 3
+BIG QUEUE: (6,4,1)(15,4,2)(18,4,3)(20,4,1)
+queue 1:(19,1,1)    (12,2,1)    (11,3,1)    (16,3,1)    
+
+queue 2:(1,2,1)    (2,3,1)    (13,3,1)    (17,3,3)    
+
+queue 3:(9,1,1)    (3,3,2)    
+
+queue 4:(4,2,1)    (5,3,1)    (14,3,3)    
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(12,2,1)    (11,3,1)    (16,3,1)    (18,4,3)    
+
+queue 2:(2,3,1)    (13,3,1)    (17,3,3)    
+
+queue 3:(3,3,2)    (6,4,1)    (15,4,2)    
+
+queue 4:(5,3,1)    (14,3,3)    (20,4,1)    
+
+
+time: 5
+BIG QUEUE: 
+queue 1:(11,3,1)    (16,3,1)    (18,4,3)    
+
+queue 2:(13,3,1)    (17,3,3)    
+
+queue 3:(3,3,1)    (6,4,1)    (15,4,2)    
+
+queue 4:(14,3,3)    (20,4,1)    
+
+
+time: 6
+BIG QUEUE: 
+queue 1:(16,3,1)    (18,4,3)    
+
+queue 2:(17,3,3)    
+
+queue 3:(6,4,1)    (15,4,2)    
+
+queue 4:(14,3,2)    (20,4,1)    
+
+
+time: 7
+BIG QUEUE: 
+queue 1:(18,4,3)    
+
+queue 2:(17,3,2)    
+
+queue 3:(15,4,2)    
+
+queue 4:(14,3,1)    (20,4,1)    
+
+
+time: 8
+BIG QUEUE: 
+queue 1:(18,4,2)    
+
+queue 2:(17,3,1)    
+
+queue 3:(15,4,1)    
+
+queue 4:(20,4,1)    
+
+
+time: 0
+BIG QUEUE: (3,1,3)(4,1,1)(14,1,1)(10,2,3)(11,2,1)(13,2,2)(16,2,2)(17,2,3)(19,2,2)(1,3,2)(2,3,1)(6,3,1)(7,3,1)(9,3,1)(15,3,3)(18,3,1)(5,4,2)(8,4,2)(12,4,1)(20,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 1
+BIG QUEUE: (10,2,3)(11,2,1)(13,2,2)(16,2,2)(17,2,3)(19,2,2)(1,3,2)(2,3,1)(6,3,1)(7,3,1)(9,3,1)(15,3,3)(18,3,1)(5,4,2)(8,4,2)(12,4,1)(20,4,2)
+queue 1:(3,1,3)    
+
+queue 2:(4,1,1)    
+
+queue 3:(14,1,1)    
+
+
+time: 2
+BIG QUEUE: (1,3,2)(2,3,1)(6,3,1)(7,3,1)(9,3,1)(15,3,3)(18,3,1)(5,4,2)(8,4,2)(12,4,1)(20,4,2)
+queue 1:(3,1,2)    (16,2,2)    
+
+queue 2:(10,2,3)    (17,2,3)    
+
+queue 3:(11,2,1)    (13,2,2)    (19,2,2)    
+
+
+time: 3
+BIG QUEUE: (5,4,2)(8,4,2)(12,4,1)(20,4,2)
+queue 1:(3,1,1)    (16,2,2)    (1,3,2)    (6,3,1)    (15,3,3)    
+
+queue 2:(10,2,2)    (17,2,3)    (7,3,1)    (18,3,1)    
+
+queue 3:(13,2,2)    (19,2,2)    (2,3,1)    (9,3,1)    
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(16,2,2)    (1,3,2)    (6,3,1)    (15,3,3)    (20,4,2)    
+
+queue 2:(10,2,1)    (17,2,3)    (7,3,1)    (18,3,1)    (8,4,2)    
+
+queue 3:(13,2,1)    (19,2,2)    (2,3,1)    (9,3,1)    (5,4,2)    (12,4,1)    
+
+
+time: 5
+BIG QUEUE: 
+queue 1:(16,2,1)    (1,3,2)    (6,3,1)    (15,3,3)    (20,4,2)    
+
+queue 2:(17,2,3)    (7,3,1)    (18,3,1)    (8,4,2)    
+
+queue 3:(19,2,2)    (2,3,1)    (9,3,1)    (5,4,2)    (12,4,1)    
+
+
+time: 6
+BIG QUEUE: 
+queue 1:(1,3,2)    (6,3,1)    (15,3,3)    (20,4,2)    
+
+queue 2:(17,2,2)    (7,3,1)    (18,3,1)    (8,4,2)    
+
+queue 3:(19,2,1)    (2,3,1)    (9,3,1)    (5,4,2)    (12,4,1)    
+
+
+time: 7
+BIG QUEUE: 
+queue 1:(1,3,1)    (6,3,1)    (15,3,3)    (20,4,2)    
+
+queue 2:(17,2,1)    (7,3,1)    (18,3,1)    (8,4,2)    
+
+queue 3:(2,3,1)    (9,3,1)    (5,4,2)    (12,4,1)    
+
+
+time: 8
+BIG QUEUE: 
+queue 1:(6,3,1)    (15,3,3)    (20,4,2)    
+
+queue 2:(7,3,1)    (18,3,1)    (8,4,2)    
+
+queue 3:(9,3,1)    (5,4,2)    (12,4,1)    
+
+
+time: 9
+BIG QUEUE: 
+queue 1:(15,3,3)    (20,4,2)    
+
+queue 2:(18,3,1)    (8,4,2)    
+
+queue 3:(5,4,2)    (12,4,1)    
+
+
+time: 10
+BIG QUEUE: 
+queue 1:(15,3,2)    (20,4,2)    
+
+queue 2:(8,4,2)    
+
+queue 3:(5,4,1)    (12,4,1)    
+
+
+time: 0
+BIG QUEUE: (1,1,2)(5,1,3)(3,2,3)(6,2,2)(9,2,1)(4,3,2)(10,3,2)(2,4,2)(7,4,2)(8,4,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+queue 6:__empty__
+
+queue 7:__empty__
+
+queue 8:__empty__
+
+queue 9:__empty__
+
+queue 10:__empty__
+
+queue 11:__empty__
+
+queue 12:__empty__
+
+queue 13:__empty__
+
+queue 14:__empty__
+
+queue 15:__empty__
+
+queue 16:__empty__
+
+queue 17:__empty__
+
+queue 18:__empty__
+
+queue 19:__empty__
+
+queue 20:__empty__
+
+
+time: 1
+BIG QUEUE: (3,2,3)(6,2,2)(9,2,1)(4,3,2)(10,3,2)(2,4,2)(7,4,2)(8,4,3)
+queue 1:(1,1,2)    
+
+queue 2:(5,1,3)    
+
+queue 3:__empty__
+
+queue 4:__empty__
+
+queue 5:__empty__
+
+queue 6:__empty__
+
+queue 7:__empty__
+
+queue 8:__empty__
+
+queue 9:__empty__
+
+queue 10:__empty__
+
+queue 11:__empty__
+
+queue 12:__empty__
+
+queue 13:__empty__
+
+queue 14:__empty__
+
+queue 15:__empty__
+
+queue 16:__empty__
+
+queue 17:__empty__
+
+queue 18:__empty__
+
+queue 19:__empty__
+
+queue 20:__empty__
+
+
+time: 2
+BIG QUEUE: (4,3,2)(10,3,2)(2,4,2)(7,4,2)(8,4,3)
+queue 1:(1,1,1)    
+
+queue 2:(5,1,2)    
+
+queue 3:(3,2,3)    
+
+queue 4:(6,2,2)    
+
+queue 5:(9,2,1)    
+
+queue 6:__empty__
+
+queue 7:__empty__
+
+queue 8:__empty__
+
+queue 9:__empty__
+
+queue 10:__empty__
+
+queue 11:__empty__
+
+queue 12:__empty__
+
+queue 13:__empty__
+
+queue 14:__empty__
+
+queue 15:__empty__
+
+queue 16:__empty__
+
+queue 17:__empty__
+
+queue 18:__empty__
+
+queue 19:__empty__
+
+queue 20:__empty__
+
+
+time: 3
+BIG QUEUE: (2,4,2)(7,4,2)(8,4,3)
+queue 1:(4,3,2)    
+
+queue 2:(5,1,1)    
+
+queue 3:(3,2,2)    
+
+queue 4:(6,2,1)    
+
+queue 5:(10,3,2)    
+
+queue 6:__empty__
+
+queue 7:__empty__
+
+queue 8:__empty__
+
+queue 9:__empty__
+
+queue 10:__empty__
+
+queue 11:__empty__
+
+queue 12:__empty__
+
+queue 13:__empty__
+
+queue 14:__empty__
+
+queue 15:__empty__
+
+queue 16:__empty__
+
+queue 17:__empty__
+
+queue 18:__empty__
+
+queue 19:__empty__
+
+queue 20:__empty__
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(4,3,1)    
+
+queue 2:(2,4,2)    
+
+queue 3:(3,2,1)    
+
+queue 4:(7,4,2)    
+
+queue 5:(10,3,1)    
+
+queue 6:(8,4,3)    
+
+queue 7:__empty__
+
+queue 8:__empty__
+
+queue 9:__empty__
+
+queue 10:__empty__
+
+queue 11:__empty__
+
+queue 12:__empty__
+
+queue 13:__empty__
+
+queue 14:__empty__
+
+queue 15:__empty__
+
+queue 16:__empty__
+
+queue 17:__empty__
+
+queue 18:__empty__
+
+queue 19:__empty__
+
+queue 20:__empty__
+
+
+time: 0
+BIG QUEUE: (4,1,3)(9,1,3)(1,3,1)(5,3,2)(7,3,2)(10,3,2)(2,4,3)(3,4,3)(6,4,3)(8,4,3)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 1
+BIG QUEUE: (1,3,1)(5,3,2)(7,3,2)(10,3,2)(2,4,3)(3,4,3)(6,4,3)(8,4,3)
+queue 1:(4,1,3)    
+
+queue 2:(9,1,3)    
+
+queue 3:__empty__
+
+
+time: 2
+BIG QUEUE: (1,3,1)(5,3,2)(7,3,2)(10,3,2)(2,4,3)(3,4,3)(6,4,3)(8,4,3)
+queue 1:(4,1,2)    
+
+queue 2:(9,1,2)    
+
+queue 3:__empty__
+
+
+time: 0
+BIG QUEUE: (4,2,3)(7,2,3)(8,2,2)(1,3,2)(2,3,3)(3,3,2)(5,3,3)(10,3,3)(6,4,2)(9,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 1
+BIG QUEUE: (4,2,3)(7,2,3)(8,2,2)(1,3,2)(2,3,3)(3,3,2)(5,3,3)(10,3,3)(6,4,2)(9,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 2
+BIG QUEUE: (1,3,2)(2,3,3)(3,3,2)(5,3,3)(10,3,3)(6,4,2)(9,4,2)
+queue 1:(4,2,3)    
+
+queue 2:(7,2,3)    
+
+queue 3:(8,2,2)    
+
+
+time: 3
+BIG QUEUE: (6,4,2)(9,4,2)
+queue 1:(4,2,2)    (2,3,3)    
+
+queue 2:(7,2,2)    (3,3,2)    (10,3,3)    
+
+queue 3:(8,2,1)    (1,3,2)    (5,3,3)    
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(4,2,1)    (2,3,3)    (6,4,2)    
+
+queue 2:(7,2,1)    (3,3,2)    (10,3,3)    
+
+queue 3:(1,3,2)    (5,3,3)    (9,4,2)    
+
+
+time: 0
+BIG QUEUE: (2,1,2)(7,1,1)(9,1,2)(6,2,2)(10,3,2)(1,4,3)(3,4,1)(4,4,2)(5,4,1)(8,4,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+time: 1
+BIG QUEUE: (6,2,2)(10,3,2)(1,4,3)(3,4,1)(4,4,2)(5,4,1)(8,4,2)
+queue 1:(2,1,2)    
+
+queue 2:(7,1,1)    
+
+queue 3:(9,1,2)    
+
+
+time: 2
+BIG QUEUE: (10,3,2)(1,4,3)(3,4,1)(4,4,2)(5,4,1)(8,4,2)
+queue 1:(2,1,1)    
+
+queue 2:(6,2,2)    
+
+queue 3:(9,1,1)    
+
+
+time: 3
+BIG QUEUE: (1,4,3)(3,4,1)(4,4,2)(5,4,1)(8,4,2)
+queue 1:(10,3,2)    
+
+queue 2:(6,2,1)    
+
+queue 3:__empty__
+
+
+time: 4
+BIG QUEUE: 
+queue 1:(10,3,1)    (4,4,2)    
+
+queue 2:(1,4,3)    
+
+queue 3:(3,4,1)    (5,4,1)    (8,4,2)    
+
+
+time: 5
+BIG QUEUE: 
+queue 1:(4,4,2)    
+
+queue 2:(1,4,2)    
+
+queue 3:(5,4,1)    (8,4,2)    
+
+
+time: 6
+BIG QUEUE: 
+queue 1:(4,4,1)    
+
+queue 2:(1,4,1)    
+
+queue 3:(8,4,2)    
+
+
+time: 7
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:(8,4,1)    
+
+
+time: 8
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+queue 3:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 4
+Average Waiting Time:0.4
+Average Service Time:1.8

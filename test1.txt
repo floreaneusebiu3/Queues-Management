@@ -1,0 +1,229 @@
+
+time: 0
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 1
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 2
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 3
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 4
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 5
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 6
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 7
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 8
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 9
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 10
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 11
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 12
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 13
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 14
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 15
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 16
+BIG QUEUE: (3,17,5)(1,20,2)(2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 17
+BIG QUEUE: (1,20,2)(2,27,4)(4,29,2)
+queue 1:(3,17,5)    
+
+queue 2:__empty__
+
+
+time: 18
+BIG QUEUE: (1,20,2)(2,27,4)(4,29,2)
+queue 1:(3,17,4)    
+
+queue 2:__empty__
+
+
+time: 19
+BIG QUEUE: (1,20,2)(2,27,4)(4,29,2)
+queue 1:(3,17,3)    
+
+queue 2:__empty__
+
+
+time: 20
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:(3,17,2)    
+
+queue 2:(1,20,2)    
+
+
+time: 21
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:(3,17,1)    
+
+queue 2:(1,20,1)    
+
+
+time: 22
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 23
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 24
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 25
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 26
+BIG QUEUE: (2,27,4)(4,29,2)
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+time: 27
+BIG QUEUE: (4,29,2)
+queue 1:(2,27,4)    
+
+queue 2:__empty__
+
+
+time: 28
+BIG QUEUE: (4,29,2)
+queue 1:(2,27,3)    
+
+queue 2:__empty__
+
+
+time: 29
+BIG QUEUE: 
+queue 1:(2,27,2)    
+
+queue 2:(4,29,2 )
+
+
+time: 30
+BIG QUEUE: 
+queue 1:(2,27,1)    
+
+queue 2:(4,29,1)    
+
+
+time: 31
+BIG QUEUE: 
+queue 1:__empty__
+
+queue 2:__empty__
+
+
+FINAL RESULTS:
+Peak Hour: 20
+Average Waiting Time:0.0
+Average Service Time:3.25

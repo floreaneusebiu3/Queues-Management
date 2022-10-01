@@ -1,0 +1,139 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"dafaae5d-a80e-40f4-afeb-4281a4bcac95\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"26Mj1l8lUSTkdSSs1j5iFyzrSB6\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Test\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Test\" />\r\n      <module name=\"PT2022_30223_FLOREAN_EUSEBIU_ASSIGMENT_2\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Test\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"dafaae5d-a80e-40f4-afeb-4281a4bcac95\" name=\"Changes\" comment=\"\" />\r\n      <created>1647240138317</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1647240138317</updated>\r\n      <workItem from=\"1647240139435\" duration=\"4017000\" />\r\n      <workItem from=\"1647842909850\" duration=\"9246000\" />\r\n      <workItem from=\"1648061288980\" duration=\"10806000\" />\r\n      <workItem from=\"1648072515324\" duration=\"1117000\" />\r\n      <workItem from=\"1648140687461\" duration=\"54516000\" />\r\n      <workItem from=\"1648399042940\" duration=\"1449000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4a5aa2ecea0cbcde95da5a933154a5f1499da4b6)
++++ b/.idea/workspace.xml	(date 1648401575344)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="dafaae5d-a80e-40f4-afeb-4281a4bcac95" name="Changes" comment="" />
++    <list default="true" id="dafaae5d-a80e-40f4-afeb-4281a4bcac95" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/LogOfEvents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LogOfEvents.txt" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -75,6 +77,7 @@
+       <workItem from="1648072515324" duration="1117000" />
+       <workItem from="1648140687461" duration="54516000" />
+       <workItem from="1648399042940" duration="1449000" />
++      <workItem from="1648401153635" duration="419000" />
+     </task>
+     <servers />
+   </component>
+Index: LogOfEvents.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>BIG QUEUE: Client{3 1 1}Client{8 1 3}Client{1 2 2}Client{4 2 3}Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{1 2 2}Client{4 2 3}Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: Client{2 4 1}Client{5 4 1}Client{6 4 2}Client{7 4 2}Client{9 4 1}Client{10 4 3}BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: BIG QUEUE: Client{2 1 2}Client{4 1 3}Client{5 1 2}Client{8 1 2}Client{9 1 1}Client{6 2 2}Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}\r\nBIG QUEUE: Client{6 2 2}Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}\r\nBIG QUEUE: Client{1 3 3}Client{3 3 1}Client{7 3 1}Client{10 4 3}\r\nBIG QUEUE: Client{10 4 3}\r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE:\r\n\r\nBIG QUEUE: Client{4 1 1}Client{6 1 2}Client{7 1 2}Client{9 1 3}Client{1 2 1}Client{2 2 1}Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}\r\nBIG QUEUE: Client{1 2 1}Client{2 2 1}Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}\r\nBIG QUEUE: Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}\r\nBIG QUEUE: Client{3 4 2}Client{5 4 1}Client{8 4 3}Client{10 4 2}\r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: \r\nBIG QUEUE: Client{5 1 1}Client{6 1 1}Client{10 1 1}Client{1 2 2}Client{2 2 2}Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}\r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\nBIG QUEUE: Client{1 2 2}Client{2 2 2}Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}\r\nqueue 1:(5,1,1)    \r\nqueue 2:(6,1,1)    \r\nqueue 3:(10,1,1)    \r\nBIG QUEUE: Client{7 3 2}Client{8 3 3}Client{9 3 2}Client{3 4 2}Client{4 4 3}\r\nqueue 1:(1,2,2)    \r\nqueue 2:(2,2,2)    \r\nqueue 3:__empty__\r\nBIG QUEUE: Client{3 4 2}Client{4 4 3}\r\nqueue 1:(1,2,1)    (8,3,3)    \r\nqueue 2:(2,2,1)    (9,3,2)    \r\nqueue 3:(7,3,2)    \r\nBIG QUEUE: \r\nqueue 1:(8,3,3)    \r\nqueue 2:(9,3,2)    (4,4,3)    \r\nqueue 3:(7,3,1)    (3,4,2)    \r\nBIG QUEUE: \r\nqueue 1:(8,3,2)    \r\nqueue 2:(9,3,1)    (4,4,3)    \r\nqueue 3:(3,4,2)    \r\nBIG QUEUE: \r\nqueue 1:(8,3,1)    \r\nqueue 2:(4,4,3)    \r\nqueue 3:(3,4,1)    \r\nBIG QUEUE: \r\nqueue 1:__empty__\r\nqueue 2:(4,4,2)    \r\nqueue 3:__empty__\r\nBIG QUEUE: \r\nqueue 1:__empty__\r\nqueue 2:(4,4,1)    \r\nqueue 3:__empty__\r\nBIG QUEUE: \r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\ntime: 0BIG QUEUE: \r\nClient{1 1 1}Client{2 1 1}Client{6 1 1}Client{7 1 3}Client{9 1 1}Client{10 1 1}Client{3 2 1}Client{4 2 1}Client{5 2 2}Client{8 4 2}\r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\ntime: 1BIG QUEUE: \r\nClient{3 2 1}Client{4 2 1}Client{5 2 2}Client{8 4 2}\r\nqueue 1:(1,1,1)    (7,1,3)    \r\nqueue 2:(2,1,1)    (9,1,1)    \r\nqueue 3:(6,1,1)    (10,1,1)    \r\ntime: 2BIG QUEUE: \r\nClient{8 4 2}\r\nqueue 1:(7,1,3)    \r\nqueue 2:(9,1,1)    (3,2,1)    (5,2,2)    \r\nqueue 3:(10,1,1)    (4,2,1)    \r\ntime: 3BIG QUEUE: \r\nClient{8 4 2}\r\nqueue 1:(7,1,2)    \r\nqueue 2:(3,2,1)    (5,2,2)    \r\nqueue 3:(4,2,1)    \r\ntime: 4BIG QUEUE: \r\n\r\nqueue 1:(7,1,1)    \r\nqueue 2:(5,2,2)    \r\nqueue 3:(8,4,2)    \r\ntime: 5BIG QUEUE: \r\n\r\nqueue 1:__empty__\r\nqueue 2:(5,2,1)    \r\nqueue 3:(8,4,1)    \r\ntime: 6BIG QUEUE: \r\n\r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\ntime: 0\r\nBIG QUEUE: \r\n(1,1,1)(2,1,1)(7,1,3)(9,1,2)(3,2,3)(8,2,1)(10,3,3)(4,4,2)(5,4,2)(6,4,1)\r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\ntime: 1\r\nBIG QUEUE: \r\n(3,2,3)(8,2,1)(10,3,3)(4,4,2)(5,4,2)(6,4,1)\r\nqueue 1:(1,1,1)    (9,1,2)    \r\nqueue 2:(2,1,1)    \r\nqueue 3:(7,1,3)    \r\ntime: 2\r\nBIG QUEUE: \r\n(10,3,3)(4,4,2)(5,4,2)(6,4,1)\r\nqueue 1:(9,1,2)    (8,2,1)    \r\nqueue 2:(3,2,3)    \r\nqueue 3:(7,1,2)    \r\ntime: 3\r\nBIG QUEUE: \r\n(4,4,2)(5,4,2)(6,4,1)\r\nqueue 1:(9,1,1)    (8,2,1)    \r\nqueue 2:(3,2,2)    \r\nqueue 3:(7,1,1)    (10,3,3)    \r\ntime: 4\r\nBIG QUEUE: \r\n\r\nqueue 1:(8,2,1)    (4,4,2)    (6,4,1)    \r\nqueue 2:(3,2,1)    (5,4,2)    \r\nqueue 3:(10,3,3)    \r\ntime: 5\r\nBIG QUEUE: \r\n\r\nqueue 1:(4,4,2)    (6,4,1)    \r\nqueue 2:(5,4,2)    \r\nqueue 3:(10,3,2)    \r\ntime: 6\r\nBIG QUEUE: \r\n\r\nqueue 1:(4,4,1)    (6,4,1)    \r\nqueue 2:(5,4,1)    \r\nqueue 3:(10,3,1)    \r\ntime: 7\r\nBIG QUEUE: \r\n\r\nqueue 1:(6,4,1)    \r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\ntime: 8\r\nBIG QUEUE: \r\n\r\nqueue 1:__empty__\r\nqueue 2:__empty__\r\nqueue 3:__empty__\r\nFINAL RESULTS:\r\nPeak Hour: 4\r\nAverage Waiting Time:0.9\r\nAverage Service Time:1.9time: 0\r\nBIG QUEUE: (1,1,1)(4,1,1)(5,1,1)(10,2,1)(6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)\r\nqueue 1:__empty__\r\n\r\ntime: 1\r\nBIG QUEUE: (10,2,1)(6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)\r\nqueue 1:(1,1,1)    (4,1,1)    (5,1,1)    \r\n\r\ntime: 2\r\nBIG QUEUE: (6,3,1)(7,3,1)(9,3,1)(2,4,1)(3,4,1)(8,4,1)\r\nqueue 1:(4,1,1)    (5,1,1)    (10,2,1)    \r\n\r\ntime: 3\r\nBIG QUEUE: (2,4,1)(3,4,1)(8,4,1)\r\nqueue 1:(5,1,1)    (10,2,1)    (6,3,1)    (7,3,1)    (9,3,1)    \r\n\r\ntime: 4\r\nBIG QUEUE: \r\nqueue 1:(10,2,1)    (6,3,1)    (7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    \r\n\r\ntime: 5\r\nBIG QUEUE: \r\nqueue 1:(6,3,1)    (7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    \r\n\r\ntime: 6\r\nBIG QUEUE: \r\nqueue 1:(7,3,1)    (9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    \r\n\r\ntime: 7\r\nBIG QUEUE: \r\nqueue 1:(9,3,1)    (2,4,1)    (3,4,1)    (8,4,1)    \r\n\r\ntime: 8\r\nBIG QUEUE: \r\nqueue 1:(2,4,1)    (3,4,1)    (8,4,1)    \r\n\r\ntime: 9\r\nBIG QUEUE: \r\nqueue 1:(3,4,1)    (8,4,1)    \r\n\r\ntime: 10\r\nBIG QUEUE: \r\nqueue 1:(8,4,1)    \r\n\r\n\r\nFINAL RESULTS:\r\nPeak Hour: 4\r\nAverage Waiting Time:2.9\r\nAverage Service Time:1.0time: 0\r\nBIG QUEUE: (2,1,3)(4,1,2)(8,1,1)(9,1,1)(10,1,1)(1,2,3)(3,2,2)(6,2,2)(7,2,2)(5,4,1)\r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 1\r\nBIG QUEUE: (1,2,3)(3,2,2)(6,2,2)(7,2,2)(5,4,1)\r\nqueue 1:(2,1,3)    \r\n\r\nqueue 2:(4,1,2)    (10,1,1)    \r\n\r\nqueue 3:(8,1,1)    (9,1,1)    \r\n\r\ntime: 2\r\nBIG QUEUE: (5,4,1)\r\nqueue 1:(2,1,2)    (3,2,2)    (7,2,2)    \r\n\r\nqueue 2:(4,1,1)    (10,1,1)    (6,2,2)    \r\n\r\nqueue 3:(9,1,1)    (1,2,3)    \r\n\r\ntime: 3\r\nBIG QUEUE: (5,4,1)\r\nqueue 1:(2,1,1)    (3,2,2)    (7,2,2)    \r\n\r\nqueue 2:(10,1,1)    (6,2,2)    \r\n\r\nqueue 3:(1,2,3)    \r\n\r\ntime: 4\r\nBIG QUEUE: \r\nqueue 1:(3,2,2)    (7,2,2)    \r\n\r\nqueue 2:(6,2,2)    (5,4,1)    \r\n\r\nqueue 3:(1,2,2)    \r\n\r\ntime: 5\r\nBIG QUEUE: \r\nqueue 1:(3,2,1)    (7,2,2)    \r\n\r\nqueue 2:(6,2,1)    (5,4,1)    \r\n\r\nqueue 3:(1,2,1)    \r\n\r\ntime: 6\r\nBIG QUEUE: \r\nqueue 1:(7,2,2)    \r\n\r\nqueue 2:(5,4,1)    \r\n\r\nqueue 3:__empty__\r\n\r\ntime: 7\r\nBIG QUEUE: \r\nqueue 1:(7,2,1)    \r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 8\r\nBIG QUEUE: \r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\n\r\nFINAL RESULTS:\r\nPeak Hour: 2\r\nAverage Waiting Time:1.4\r\nAverage Service Time:1.8time: 0\r\nBIG QUEUE: (5,1,1)(2,2,2)(6,2,3)(9,2,3)(10,2,1)(1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)\r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 1\r\nBIG QUEUE: (2,2,2)(6,2,3)(9,2,3)(10,2,1)(1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)\r\nqueue 1:(5,1,1)    \r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 2\r\nBIG QUEUE: (1,3,3)(3,3,1)(8,3,1)(4,4,1)(7,4,2)\r\nqueue 1:(2,2,2)    (10,2,1)    \r\n\r\nqueue 2:(6,2,3)    \r\n\r\nqueue 3:(9,2,3)    \r\n\r\ntime: 3\r\nBIG QUEUE: (4,4,1)(7,4,2)\r\nqueue 1:(2,2,1)    (10,2,1)    (1,3,3)    \r\n\r\nqueue 2:(6,2,2)    (3,3,1)    \r\n\r\nqueue 3:(9,2,2)    (8,3,1)    \r\n\r\ntime: 4\r\nBIG QUEUE: \r\nqueue 1:(10,2,1)    (1,3,3)    \r\n\r\nqueue 2:(6,2,1)    (3,3,1)    (4,4,1)    \r\n\r\nqueue 3:(9,2,1)    (8,3,1)    (7,4,2)    \r\n\r\ntime: 5\r\nBIG QUEUE: \r\nqueue 1:(1,3,3)    \r\n\r\nqueue 2:(3,3,1)    (4,4,1)    \r\n\r\nqueue 3:(8,3,1)    (7,4,2)    \r\n\r\ntime: 6\r\nBIG QUEUE: \r\nqueue 1:(1,3,2)    \r\n\r\nqueue 2:(4,4,1)    \r\n\r\nqueue 3:(7,4,2)    \r\n\r\ntime: 7\r\nBIG QUEUE: \r\nqueue 1:(1,3,1)    \r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:(7,4,1)    \r\n\r\ntime: 8\r\nBIG QUEUE: \r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\n\r\nFINAL RESULTS:\r\nPeak Hour: 4\r\nAverage Waiting Time:1.2\r\nAverage Service Time:1.8time: 0\r\nBIG QUEUE: (3,1,3)(5,1,2)(6,1,3)(8,1,1)(2,2,2)(10,2,2)(4,3,1)(9,3,2)(1,4,3)(7,4,2)\r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 1\r\nBIG QUEUE: (2,2,2)(10,2,2)(4,3,1)(9,3,2)(1,4,3)(7,4,2)\r\nqueue 1:(3,1,3)    \r\n\r\nqueue 2:(5,1,2)    (8,1,1)    \r\n\r\nqueue 3:(6,1,3)    \r\n\r\ntime: 2\r\nBIG QUEUE: (4,3,1)(9,3,2)(1,4,3)(7,4,2)\r\nqueue 1:(3,1,2)    (2,2,2)    \r\n\r\nqueue 2:(5,1,1)    (8,1,1)    (10,2,2)    \r\n\r\nqueue 3:(6,1,2)    \r\n\r\ntime: 3\r\nBIG QUEUE: (1,4,3)(7,4,2)\r\nqueue 1:(3,1,1)    (2,2,2)    \r\n\r\nqueue 2:(8,1,1)    (10,2,2)    \r\n\r\nqueue 3:(6,1,1)    (4,3,1)    (9,3,2)    \r\n\r\ntime: 4\r\nBIG QUEUE: \r\nqueue 1:(2,2,2)    (1,4,3)    \r\n\r\nqueue 2:(10,2,2)    (7,4,2)    \r\n\r\nqueue 3:(4,3,1)    (9,3,2)    \r\n\r\ntime: 5\r\nBIG QUEUE: \r\nqueue 1:(2,2,1)    (1,4,3)    \r\n\r\nqueue 2:(10,2,1)    (7,4,2)    \r\n\r\nqueue 3:(9,3,2)    \r\n\r\ntime: 6\r\nBIG QUEUE: \r\nqueue 1:(1,4,3)    \r\n\r\nqueue 2:(7,4,2)    \r\n\r\nqueue 3:(9,3,1)    \r\n\r\ntime: 7\r\nBIG QUEUE: \r\nqueue 1:(1,4,2)    \r\n\r\nqueue 2:(7,4,1)    \r\n\r\nqueue 3:__empty__\r\n\r\ntime: 8\r\nBIG QUEUE: \r\nqueue 1:(1,4,1)    \r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\ntime: 9\r\nBIG QUEUE: \r\nqueue 1:__empty__\r\n\r\nqueue 2:__empty__\r\n\r\nqueue 3:__empty__\r\n\r\n\r\nFINAL RESULTS:\r\nPeak Hour: 3\r\nAverage Waiting Time:1.3\r\nAverage Service Time:2.1
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/LogOfEvents.txt b/LogOfEvents.txt
+--- a/LogOfEvents.txt	(revision 4a5aa2ecea0cbcde95da5a933154a5f1499da4b6)
++++ b/LogOfEvents.txt	(date 1648401188827)
+@@ -434,4 +434,96 @@
+ FINAL RESULTS:
+ Peak Hour: 3
+ Average Waiting Time:1.3
+-Average Service Time:2.1
+\ No newline at end of file
++Average Service Time:2.1time: 0
++BIG QUEUE: (4,1,1)(9,1,3)(1,2,3)(3,2,1)(7,2,3)(10,2,1)(5,3,3)(6,3,3)(2,4,3)(8,4,3)
++queue 1:__empty__
++
++queue 2:__empty__
++
++queue 3:__empty__
++
++time: 1
++BIG QUEUE: (1,2,3)(3,2,1)(7,2,3)(10,2,1)(5,3,3)(6,3,3)(2,4,3)(8,4,3)
++queue 1:(4,1,1)    
++
++queue 2:(9,1,3)    
++
++queue 3:__empty__
++
++time: 2
++BIG QUEUE: (5,3,3)(6,3,3)(2,4,3)(8,4,3)
++queue 1:(1,2,3)    
++
++queue 2:(9,1,2)    (10,2,1)    
++
++queue 3:(3,2,1)    (7,2,3)    
++
++time: 3
++BIG QUEUE: (2,4,3)(8,4,3)
++queue 1:(1,2,2)    (5,3,3)    
++
++queue 2:(9,1,1)    (10,2,1)    (6,3,3)    
++
++queue 3:(7,2,3)    
++
++time: 4
++BIG QUEUE: 
++queue 1:(1,2,1)    (5,3,3)    (8,4,3)    
++
++queue 2:(10,2,1)    (6,3,3)    
++
++queue 3:(7,2,2)    (2,4,3)    
++
++time: 5
++BIG QUEUE: 
++queue 1:(5,3,3)    (8,4,3)    
++
++queue 2:(6,3,3)    
++
++queue 3:(7,2,1)    (2,4,3)    
++
++time: 6
++BIG QUEUE: 
++queue 1:(5,3,2)    (8,4,3)    
++
++queue 2:(6,3,2)    
++
++queue 3:(2,4,3)    
++
++time: 7
++BIG QUEUE: 
++queue 1:(5,3,1)    (8,4,3)    
++
++queue 2:(6,3,1)    
++
++queue 3:(2,4,2)    
++
++time: 8
++BIG QUEUE: 
++queue 1:(8,4,3)    
++
++queue 2:__empty__
++
++queue 3:(2,4,1)    
++
++time: 9
++BIG QUEUE: 
++queue 1:(8,4,2)    
++
++queue 2:__empty__
++
++queue 3:__empty__
++
++time: 10
++BIG QUEUE: 
++queue 1:(8,4,1)    
++
++queue 2:__empty__
++
++queue 3:__empty__
++
++
++FINAL RESULTS:
++Peak Hour: 4
++Average Waiting Time:1.3
++Average Service Time:2.4
+\ No newline at end of file
